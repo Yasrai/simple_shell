@@ -143,4 +143,13 @@ char *error_syntax(char **args);
 char *error_permission(char **args);
 char *error_path_126(data_shell *datash);
 
+void env(void);
+void setenv(void);
+void unsetenv(void);
+void general(void);
+void exit(void);
+void help(void);
+void alias(void);
+void cd(void);
+
 #endif
