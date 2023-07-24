@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1690225128,,"wq"
+|2,0,1690225934,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,36 +25,86 @@
 # Registers:
 
 # File marks:
-'0  1  1  ~/command.c
-|4,48,1,1,1690225128,"~/command.c"
+'0  166  23  ~/command.c
+|4,48,166,23,1690225934,"~/command.c"
 '1  44  0  ~/command_shell.c
-|4,49,44,0,1690225030,"~/command_shell.c"
-'2  1  0  ~/.git/MERGE_MSG
-|4,50,1,0,1690224642,"~/.git/MERGE_MSG"
-'3  1  9  ~/command_shell.c
-|4,51,1,9,1690224548,"~/command_shell.c"
-'4  1  9  ~/command_shell.c
-|4,52,1,9,1690224548,"~/command_shell.c"
-'5  57  1  ~/command.c
-|4,53,57,1,1690224418,"~/command.c"
-'6  57  1  ~/command.c
-|4,54,57,1,1690224418,"~/command.c"
-'7  136  10  ~/command.c
-|4,55,136,10,1690224286,"~/command.c"
-'8  139  10  ~/command.c
-|4,56,139,10,1690224286,"~/command.c"
-'9  133  10  ~/command.c
-|4,57,133,10,1690224286,"~/command.c"
+|4,49,44,0,1690225861,"~/command_shell.c"
+'2  1  0  ~/command.c
+|4,50,1,0,1690225797,"~/command.c"
+'3  1  0  ~/command.c
+|4,51,1,0,1690225797,"~/command.c"
+'4  1  1  ~/command.c
+|4,52,1,1,1690225128,"~/command.c"
+'5  1  1  ~/command.c
+|4,53,1,1,1690225128,"~/command.c"
+'6  44  0  ~/command_shell.c
+|4,54,44,0,1690225030,"~/command_shell.c"
+'7  1  0  ~/.git/MERGE_MSG
+|4,55,1,0,1690224642,"~/.git/MERGE_MSG"
+'8  1  9  ~/command_shell.c
+|4,56,1,9,1690224548,"~/command_shell.c"
+'9  1  9  ~/command_shell.c
+|4,57,1,9,1690224548,"~/command_shell.c"
 
 # Jumplist (newest first):
+-'  166  23  ~/command.c
+|4,39,166,23,1690225934,"~/command.c"
+-'  1  0  ~/command.c
+|4,39,1,0,1690225870,"~/command.c"
+-'  44  0  ~/command_shell.c
+|4,39,44,0,1690225861,"~/command_shell.c"
+-'  44  0  ~/command_shell.c
+|4,39,44,0,1690225861,"~/command_shell.c"
+-'  1  0  ~/command.c
+|4,39,1,0,1690225797,"~/command.c"
+-'  1  0  ~/command.c
+|4,39,1,0,1690225797,"~/command.c"
 -'  1  1  ~/command.c
 |4,39,1,1,1690225128,"~/command.c"
+-'  1  1  ~/command.c
+|4,39,1,1,1690225128,"~/command.c"
+-'  57  1  ~/command.c
+|4,39,57,1,1690225037,"~/command.c"
+-'  57  1  ~/command.c
+|4,39,57,1,1690225037,"~/command.c"
+-'  57  1  ~/command.c
+|4,39,57,1,1690225037,"~/command.c"
+-'  57  1  ~/command.c
+|4,39,57,1,1690225037,"~/command.c"
 -'  57  1  ~/command.c
 |4,39,57,1,1690225037,"~/command.c"
 -'  44  0  ~/command_shell.c
 |4,39,44,0,1690225030,"~/command_shell.c"
 -'  44  0  ~/command_shell.c
 |4,39,44,0,1690225030,"~/command_shell.c"
+-'  44  0  ~/command_shell.c
+|4,39,44,0,1690225030,"~/command_shell.c"
+-'  44  0  ~/command_shell.c
+|4,39,44,0,1690225030,"~/command_shell.c"
+-'  44  0  ~/command_shell.c
+|4,39,44,0,1690225030,"~/command_shell.c"
+-'  44  0  ~/command_shell.c
+|4,39,44,0,1690225030,"~/command_shell.c"
+-'  44  0  ~/command_shell.c
+|4,39,44,0,1690225030,"~/command_shell.c"
+-'  44  0  ~/command_shell.c
+|4,39,44,0,1690225030,"~/command_shell.c"
+-'  1  9  ~/command_shell.c
+|4,39,1,9,1690225002,"~/command_shell.c"
+-'  1  9  ~/command_shell.c
+|4,39,1,9,1690225002,"~/command_shell.c"
+-'  1  9  ~/command_shell.c
+|4,39,1,9,1690225002,"~/command_shell.c"
+-'  1  9  ~/command_shell.c
+|4,39,1,9,1690225002,"~/command_shell.c"
+-'  1  9  ~/command_shell.c
+|4,39,1,9,1690225002,"~/command_shell.c"
+-'  1  9  ~/command_shell.c
+|4,39,1,9,1690225002,"~/command_shell.c"
+-'  1  9  ~/command_shell.c
+|4,39,1,9,1690225002,"~/command_shell.c"
+-'  1  9  ~/command_shell.c
+|4,39,1,9,1690225002,"~/command_shell.c"
 -'  1  9  ~/command_shell.c
 |4,39,1,9,1690225002,"~/command_shell.c"
 -'  1  9  ~/command_shell.c
@@ -67,6 +117,62 @@
 |4,39,1,0,1690224642,"~/.git/MERGE_MSG"
 -'  1  0  ~/.git/MERGE_MSG
 |4,39,1,0,1690224642,"~/.git/MERGE_MSG"
+-'  1  0  ~/.git/MERGE_MSG
+|4,39,1,0,1690224642,"~/.git/MERGE_MSG"
+-'  1  0  ~/.git/MERGE_MSG
+|4,39,1,0,1690224642,"~/.git/MERGE_MSG"
+-'  1  0  ~/.git/MERGE_MSG
+|4,39,1,0,1690224642,"~/.git/MERGE_MSG"
+-'  1  0  ~/.git/MERGE_MSG
+|4,39,1,0,1690224642,"~/.git/MERGE_MSG"
+-'  1  0  ~/.git/MERGE_MSG
+|4,39,1,0,1690224642,"~/.git/MERGE_MSG"
+-'  1  0  ~/.git/MERGE_MSG
+|4,39,1,0,1690224642,"~/.git/MERGE_MSG"
+-'  1  0  ~/.git/MERGE_MSG
+|4,39,1,0,1690224642,"~/.git/MERGE_MSG"
+-'  1  0  ~/.git/MERGE_MSG
+|4,39,1,0,1690224642,"~/.git/MERGE_MSG"
+-'  1  0  ~/.git/MERGE_MSG
+|4,39,1,0,1690224642,"~/.git/MERGE_MSG"
+-'  1  0  ~/.git/MERGE_MSG
+|4,39,1,0,1690224642,"~/.git/MERGE_MSG"
+-'  1  0  ~/.git/MERGE_MSG
+|4,39,1,0,1690224642,"~/.git/MERGE_MSG"
+-'  1  0  ~/.git/MERGE_MSG
+|4,39,1,0,1690224642,"~/.git/MERGE_MSG"
+-'  1  0  ~/.git/MERGE_MSG
+|4,39,1,0,1690224642,"~/.git/MERGE_MSG"
+-'  1  0  ~/.git/MERGE_MSG
+|4,39,1,0,1690224642,"~/.git/MERGE_MSG"
+-'  1  0  ~/.git/MERGE_MSG
+|4,39,1,0,1690224642,"~/.git/MERGE_MSG"
+-'  1  0  ~/.git/MERGE_MSG
+|4,39,1,0,1690224642,"~/.git/MERGE_MSG"
+-'  1  0  ~/.git/MERGE_MSG
+|4,39,1,0,1690224642,"~/.git/MERGE_MSG"
+-'  1  0  ~/.git/MERGE_MSG
+|4,39,1,0,1690224642,"~/.git/MERGE_MSG"
+-'  1  0  ~/.git/MERGE_MSG
+|4,39,1,0,1690224642,"~/.git/MERGE_MSG"
+-'  1  0  ~/.git/MERGE_MSG
+|4,39,1,0,1690224642,"~/.git/MERGE_MSG"
+-'  1  0  ~/.git/MERGE_MSG
+|4,39,1,0,1690224642,"~/.git/MERGE_MSG"
+-'  1  0  ~/.git/MERGE_MSG
+|4,39,1,0,1690224642,"~/.git/MERGE_MSG"
+-'  1  0  ~/.git/MERGE_MSG
+|4,39,1,0,1690224642,"~/.git/MERGE_MSG"
+-'  1  0  ~/.git/MERGE_MSG
+|4,39,1,0,1690224642,"~/.git/MERGE_MSG"
+-'  1  0  ~/.git/MERGE_MSG
+|4,39,1,0,1690224642,"~/.git/MERGE_MSG"
+-'  1  0  ~/.git/MERGE_MSG
+|4,39,1,0,1690224642,"~/.git/MERGE_MSG"
+-'  1  0  ~/.git/MERGE_MSG
+|4,39,1,0,1690224642,"~/.git/MERGE_MSG"
+-'  1  0  ~/.git/MERGE_MSG
+|4,39,1,0,1690224642,"~/.git/MERGE_MSG"
 -'  1  9  ~/command_shell.c
 |4,39,1,9,1690224548,"~/command_shell.c"
 -'  1  9  ~/command_shell.c
@@ -75,6 +181,46 @@
 |4,39,1,9,1690224548,"~/command_shell.c"
 -'  1  9  ~/command_shell.c
 |4,39,1,9,1690224548,"~/command_shell.c"
+-'  1  9  ~/command_shell.c
+|4,39,1,9,1690224548,"~/command_shell.c"
+-'  1  9  ~/command_shell.c
+|4,39,1,9,1690224548,"~/command_shell.c"
+-'  1  9  ~/command_shell.c
+|4,39,1,9,1690224548,"~/command_shell.c"
+-'  1  9  ~/command_shell.c
+|4,39,1,9,1690224548,"~/command_shell.c"
+-'  1  9  ~/command_shell.c
+|4,39,1,9,1690224548,"~/command_shell.c"
+-'  1  9  ~/command_shell.c
+|4,39,1,9,1690224548,"~/command_shell.c"
+-'  1  9  ~/command_shell.c
+|4,39,1,9,1690224548,"~/command_shell.c"
+-'  1  9  ~/command_shell.c
+|4,39,1,9,1690224548,"~/command_shell.c"
+-'  1  9  ~/command_shell.c
+|4,39,1,9,1690224548,"~/command_shell.c"
+-'  1  9  ~/command_shell.c
+|4,39,1,9,1690224548,"~/command_shell.c"
+-'  1  9  ~/command_shell.c
+|4,39,1,9,1690224548,"~/command_shell.c"
+-'  1  9  ~/command_shell.c
+|4,39,1,9,1690224548,"~/command_shell.c"
+-'  57  1  ~/command.c
+|4,39,57,1,1690224418,"~/command.c"
+-'  57  1  ~/command.c
+|4,39,57,1,1690224418,"~/command.c"
+-'  57  1  ~/command.c
+|4,39,57,1,1690224418,"~/command.c"
+-'  57  1  ~/command.c
+|4,39,57,1,1690224418,"~/command.c"
+-'  57  1  ~/command.c
+|4,39,57,1,1690224418,"~/command.c"
+-'  57  1  ~/command.c
+|4,39,57,1,1690224418,"~/command.c"
+-'  57  1  ~/command.c
+|4,39,57,1,1690224418,"~/command.c"
+-'  57  1  ~/command.c
+|4,39,57,1,1690224418,"~/command.c"
 -'  57  1  ~/command.c
 |4,39,57,1,1690224418,"~/command.c"
 -'  57  1  ~/command.c
@@ -95,166 +241,20 @@
 |4,39,136,10,1690224353,"~/command.c"
 -'  133  10  ~/command.c
 |4,39,133,10,1690224353,"~/command.c"
+-'  136  10  ~/command.c
+|4,39,136,10,1690224353,"~/command.c"
 -'  133  10  ~/command.c
 |4,39,133,10,1690224353,"~/command.c"
--'  133  10  ~/command.c
-|4,39,133,10,1690224353,"~/command.c"
--'  133  10  ~/command.c
-|4,39,133,10,1690224353,"~/command.c"
--'  133  10  ~/command.c
-|4,39,133,10,1690224353,"~/command.c"
--'  133  10  ~/command.c
-|4,39,133,10,1690224353,"~/command.c"
--'  133  10  ~/command.c
-|4,39,133,10,1690224353,"~/command.c"
--'  133  10  ~/command.c
-|4,39,133,10,1690224353,"~/command.c"
--'  139  10  ~/command.c
-|4,39,139,10,1690224286,"~/command.c"
 -'  136  10  ~/command.c
-|4,39,136,10,1690224286,"~/command.c"
--'  136  10  ~/command.c
-|4,39,136,10,1690224286,"~/command.c"
--'  136  10  ~/command.c
-|4,39,136,10,1690224286,"~/command.c"
--'  136  10  ~/command.c
-|4,39,136,10,1690224286,"~/command.c"
--'  136  10  ~/command.c
-|4,39,136,10,1690224286,"~/command.c"
--'  136  10  ~/command.c
-|4,39,136,10,1690224286,"~/command.c"
--'  136  10  ~/command.c
-|4,39,136,10,1690224286,"~/command.c"
--'  136  10  ~/command.c
-|4,39,136,10,1690224286,"~/command.c"
--'  1  0  ~/command.c
-|4,39,1,0,1690223763,"~/command.c"
--'  1  0  ~/command.c
-|4,39,1,0,1690223763,"~/command.c"
--'  1  0  ~/command.c
-|4,39,1,0,1690223763,"~/command.c"
--'  1  0  ~/command.c
-|4,39,1,0,1690223763,"~/command.c"
--'  1  0  ~/command.c
-|4,39,1,0,1690223763,"~/command.c"
--'  1  0  ~/command.c
-|4,39,1,0,1690223763,"~/command.c"
--'  1  0  ~/command.c
-|4,39,1,0,1690223763,"~/command.c"
--'  1  0  ~/command.c
-|4,39,1,0,1690223763,"~/command.c"
--'  1  0  ~/command.c
-|4,39,1,0,1690223763,"~/command.c"
--'  1  0  ~/command.c
-|4,39,1,0,1690223763,"~/command.c"
--'  1  0  ~/command.c
-|4,39,1,0,1690223763,"~/command.c"
--'  1  0  ~/command.c
-|4,39,1,0,1690223763,"~/command.c"
--'  1  0  ~/command.c
-|4,39,1,0,1690223763,"~/command.c"
--'  1  0  ~/command.c
-|4,39,1,0,1690223763,"~/command.c"
--'  1  0  ~/command.c
-|4,39,1,0,1690223763,"~/command.c"
--'  1  0  ~/command.c
-|4,39,1,0,1690223763,"~/command.c"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1690221713,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1690221713,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1690221713,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1690221713,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1690221713,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1690221713,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1690221713,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1690221713,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1690221713,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1690221713,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1690221713,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1690221713,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1690221713,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1690221713,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1690221713,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1690221713,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1690221713,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1690221713,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1690221713,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1690221713,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1690221713,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1690221713,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1690221713,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1690221713,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1690221713,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1690221713,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1690221713,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1690221713,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1690221713,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1690221713,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1690221713,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1690221713,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1690221713,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1690221713,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1690221713,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1690221713,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1690221713,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1690221713,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1690221713,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1690221713,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1690221713,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1690221713,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1690221713,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1690221713,"~/.git/COMMIT_EDITMSG"
+|4,39,136,10,1690224353,"~/command.c"
 
 # History of marks within files (newest to oldest):
 
 > ~/command.c
-	*	1690225127	0
-	"	1	1
-	^	1	0
-	.	134	3
+	*	1690225933	0
+	"	166	23
+	^	166	24
+	.	166	23
 	+	1	24
 	+	5	62
 	+	7	2
@@ -305,9 +305,12 @@
 	+	128	1
 	+	132	0
 	+	134	3
+	+	209	0
+	+	164	1
+	+	166	23
 
 > ~/command_shell.c
-	*	1690225029	0
+	*	1690225859	0
 	"	44	0
 	^	44	0
 	.	2	0
