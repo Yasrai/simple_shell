@@ -1,11 +1,11 @@
 #include "simpleshell.h"
+
 /**
 * @datash: data relevant {environ}
-*
 * command_dot - changed to the parent directory
-*
 * Return: no return
 */
+
 void command_dot(data_shell *datash)
 {
 	char pwd[PATH_MAX];
@@ -49,13 +49,14 @@ void command_dot(data_shell *datash)
 	datash->status = 0;
 	free(cp_pwd);
 }
+
 /**
  * command_to - changed to a directory given
  * by the user
- *
  * @datash: data relevant {directories}
  * Return: no return
  */
+
 void command_to(data_shell *datash)
 {
 	char pwd[PATH_MAX];
@@ -83,12 +84,13 @@ void command_to(data_shell *datash)
 
 	chdir(dir);
 }
+
 /**
  * command_previous - changed to previous directory
- *
  * @datash: data relevant {environ}
  * Return: no return
  */
+
 void command_previous(data_shell *datash)
 {
 	char pwd[PATH_MAX];
@@ -124,12 +126,13 @@ void command_previous(data_shell *datash)
 
 	chdir(p_pwd);
 }
+
 /**
  * command_to_home - changed to home directory
- *
  * @datash: data relevant {environ}
  * Return: no return
  */
+
 void command_to_home(data_shell *datash)
 {
 	char *p_pwd, *home;

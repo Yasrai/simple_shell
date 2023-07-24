@@ -1,10 +1,11 @@
 #include "simple_shell"
+
 /**
  * command_shell - changes current directory
- *
  * @datash: data relevant
  * Return: 1 on success
  */
+
 int command_shell(data_shell *datash)
 {
 	char *dir;
