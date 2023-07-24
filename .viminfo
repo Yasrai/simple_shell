@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1690237166,,"wq"
+|2,0,1690239019,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,236 +25,236 @@
 # Registers:
 
 # File marks:
-'0  214  0  ~/environment.c
-|4,48,214,0,1690237166,"~/environment.c"
-'1  6  0  ~/.git/MERGE_MSG
-|4,49,6,0,1690226029,"~/.git/MERGE_MSG"
-'2  166  23  ~/command.c
-|4,50,166,23,1690225934,"~/command.c"
-'3  44  0  ~/command_shell.c
-|4,51,44,0,1690225861,"~/command_shell.c"
-'4  1  0  ~/command.c
-|4,52,1,0,1690225797,"~/command.c"
-'5  1  0  ~/command.c
-|4,53,1,0,1690225797,"~/command.c"
-'6  1  1  ~/command.c
-|4,54,1,1,1690225128,"~/command.c"
-'7  1  1  ~/command.c
-|4,55,1,1,1690225128,"~/command.c"
-'8  44  0  ~/command_shell.c
-|4,56,44,0,1690225030,"~/command_shell.c"
-'9  1  0  ~/.git/MERGE_MSG
-|4,57,1,0,1690224642,"~/.git/MERGE_MSG"
+'0  40  8  ~/environment.c
+|4,48,40,8,1690239019,"~/environment.c"
+'1  46  0  ~/environment.c
+|4,49,46,0,1690238980,"~/environment.c"
+'2  46  0  ~/environment.c
+|4,50,46,0,1690238980,"~/environment.c"
+'3  138  0  ~/environment.c
+|4,51,138,0,1690238930,"~/environment.c"
+'4  140  0  ~/environment.c
+|4,52,140,0,1690238930,"~/environment.c"
+'5  138  0  ~/environment.c
+|4,53,138,0,1690238930,"~/environment.c"
+'6  140  0  ~/environment.c
+|4,54,140,0,1690238930,"~/environment.c"
+'7  1  0  ~/environment1.c
+|4,55,1,0,1690238786,"~/environment1.c"
+'8  48  18  ~/environment1.c
+|4,56,48,18,1690238674,"~/environment1.c"
+'9  48  18  ~/environment1.c
+|4,57,48,18,1690238674,"~/environment1.c"
 
 # Jumplist (newest first):
+-'  40  8  ~/environment.c
+|4,39,40,8,1690239019,"~/environment.c"
+-'  46  0  ~/environment.c
+|4,39,46,0,1690238996,"~/environment.c"
+-'  46  0  ~/environment.c
+|4,39,46,0,1690238980,"~/environment.c"
+-'  138  0  ~/environment.c
+|4,39,138,0,1690238946,"~/environment.c"
+-'  138  0  ~/environment.c
+|4,39,138,0,1690238946,"~/environment.c"
+-'  140  0  ~/environment.c
+|4,39,140,0,1690238930,"~/environment.c"
+-'  140  0  ~/environment.c
+|4,39,140,0,1690238930,"~/environment.c"
+-'  1  0  ~/environment1.c
+|4,39,1,0,1690238786,"~/environment1.c"
+-'  1  0  ~/environment1.c
+|4,39,1,0,1690238786,"~/environment1.c"
+-'  1  0  ~/environment1.c
+|4,39,1,0,1690238786,"~/environment1.c"
+-'  1  0  ~/environment1.c
+|4,39,1,0,1690238786,"~/environment1.c"
+-'  1  0  ~/environment1.c
+|4,39,1,0,1690238786,"~/environment1.c"
+-'  1  0  ~/environment1.c
+|4,39,1,0,1690238786,"~/environment1.c"
+-'  1  0  ~/environment1.c
+|4,39,1,0,1690238786,"~/environment1.c"
+-'  1  0  ~/environment1.c
+|4,39,1,0,1690238786,"~/environment1.c"
+-'  58  0  ~/environment1.c
+|4,39,58,0,1690238770,"~/environment1.c"
+-'  58  0  ~/environment1.c
+|4,39,58,0,1690238770,"~/environment1.c"
+-'  58  0  ~/environment1.c
+|4,39,58,0,1690238770,"~/environment1.c"
+-'  58  0  ~/environment1.c
+|4,39,58,0,1690238770,"~/environment1.c"
+-'  58  0  ~/environment1.c
+|4,39,58,0,1690238770,"~/environment1.c"
+-'  58  0  ~/environment1.c
+|4,39,58,0,1690238770,"~/environment1.c"
+-'  58  0  ~/environment1.c
+|4,39,58,0,1690238770,"~/environment1.c"
+-'  58  0  ~/environment1.c
+|4,39,58,0,1690238770,"~/environment1.c"
+-'  48  18  ~/environment1.c
+|4,39,48,18,1690238674,"~/environment1.c"
+-'  48  18  ~/environment1.c
+|4,39,48,18,1690238674,"~/environment1.c"
+-'  48  18  ~/environment1.c
+|4,39,48,18,1690238674,"~/environment1.c"
+-'  48  18  ~/environment1.c
+|4,39,48,18,1690238674,"~/environment1.c"
+-'  48  18  ~/environment1.c
+|4,39,48,18,1690238674,"~/environment1.c"
+-'  48  18  ~/environment1.c
+|4,39,48,18,1690238674,"~/environment1.c"
+-'  48  18  ~/environment1.c
+|4,39,48,18,1690238674,"~/environment1.c"
+-'  48  18  ~/environment1.c
+|4,39,48,18,1690238674,"~/environment1.c"
+-'  48  18  ~/environment1.c
+|4,39,48,18,1690238674,"~/environment1.c"
+-'  48  18  ~/environment1.c
+|4,39,48,18,1690238674,"~/environment1.c"
+-'  48  18  ~/environment1.c
+|4,39,48,18,1690238674,"~/environment1.c"
+-'  48  18  ~/environment1.c
+|4,39,48,18,1690238674,"~/environment1.c"
+-'  48  18  ~/environment1.c
+|4,39,48,18,1690238674,"~/environment1.c"
+-'  48  18  ~/environment1.c
+|4,39,48,18,1690238674,"~/environment1.c"
+-'  48  18  ~/environment1.c
+|4,39,48,18,1690238674,"~/environment1.c"
+-'  48  18  ~/environment1.c
+|4,39,48,18,1690238674,"~/environment1.c"
+-'  1  0  ~/environment1.c
+|4,39,1,0,1690238615,"~/environment1.c"
+-'  1  0  ~/environment1.c
+|4,39,1,0,1690238615,"~/environment1.c"
+-'  1  0  ~/environment1.c
+|4,39,1,0,1690238615,"~/environment1.c"
+-'  1  0  ~/environment1.c
+|4,39,1,0,1690238615,"~/environment1.c"
+-'  1  0  ~/environment1.c
+|4,39,1,0,1690238615,"~/environment1.c"
+-'  1  0  ~/environment1.c
+|4,39,1,0,1690238615,"~/environment1.c"
+-'  1  0  ~/environment1.c
+|4,39,1,0,1690238615,"~/environment1.c"
+-'  1  0  ~/environment1.c
+|4,39,1,0,1690238615,"~/environment1.c"
+-'  1  0  ~/environment1.c
+|4,39,1,0,1690238567,"~/environment1.c"
+-'  1  0  ~/environment1.c
+|4,39,1,0,1690238567,"~/environment1.c"
+-'  1  0  ~/environment1.c
+|4,39,1,0,1690238567,"~/environment1.c"
+-'  1  0  ~/environment1.c
+|4,39,1,0,1690238567,"~/environment1.c"
+-'  1  0  ~/environment1.c
+|4,39,1,0,1690238567,"~/environment1.c"
+-'  1  0  ~/environment1.c
+|4,39,1,0,1690238567,"~/environment1.c"
+-'  1  0  ~/environment1.c
+|4,39,1,0,1690238567,"~/environment1.c"
+-'  1  0  ~/environment1.c
+|4,39,1,0,1690238567,"~/environment1.c"
+-'  143  0  ~/environment.c
+|4,39,143,0,1690238529,"~/environment.c"
+-'  145  0  ~/environment.c
+|4,39,145,0,1690238529,"~/environment.c"
+-'  143  0  ~/environment.c
+|4,39,143,0,1690238529,"~/environment.c"
+-'  145  0  ~/environment.c
+|4,39,145,0,1690238529,"~/environment.c"
+-'  145  0  ~/environment.c
+|4,39,145,0,1690238529,"~/environment.c"
+-'  145  0  ~/environment.c
+|4,39,145,0,1690238529,"~/environment.c"
+-'  145  0  ~/environment.c
+|4,39,145,0,1690238529,"~/environment.c"
+-'  145  0  ~/environment.c
+|4,39,145,0,1690238529,"~/environment.c"
+-'  145  0  ~/environment.c
+|4,39,145,0,1690238529,"~/environment.c"
+-'  145  0  ~/environment.c
+|4,39,145,0,1690238529,"~/environment.c"
+-'  145  0  ~/environment.c
+|4,39,145,0,1690238529,"~/environment.c"
+-'  137  1228  ~/environment.c
+|4,39,137,1228,1690238150,"~/environment.c"
+-'  142  1228  ~/environment.c
+|4,39,142,1228,1690238150,"~/environment.c"
+-'  139  1228  ~/environment.c
+|4,39,139,1228,1690238150,"~/environment.c"
+-'  144  1228  ~/environment.c
+|4,39,144,1228,1690238150,"~/environment.c"
+-'  137  1228  ~/environment.c
+|4,39,137,1228,1690238150,"~/environment.c"
+-'  142  1228  ~/environment.c
+|4,39,142,1228,1690238150,"~/environment.c"
+-'  139  1228  ~/environment.c
+|4,39,139,1228,1690238150,"~/environment.c"
+-'  144  1228  ~/environment.c
+|4,39,144,1228,1690238150,"~/environment.c"
+-'  144  1228  ~/environment.c
+|4,39,144,1228,1690238150,"~/environment.c"
+-'  144  1228  ~/environment.c
+|4,39,144,1228,1690238150,"~/environment.c"
+-'  144  1228  ~/environment.c
+|4,39,144,1228,1690238150,"~/environment.c"
+-'  144  1228  ~/environment.c
+|4,39,144,1228,1690238150,"~/environment.c"
+-'  144  1228  ~/environment.c
+|4,39,144,1228,1690238150,"~/environment.c"
+-'  144  1228  ~/environment.c
+|4,39,144,1228,1690238150,"~/environment.c"
+-'  144  1228  ~/environment.c
+|4,39,144,1228,1690238150,"~/environment.c"
+-'  207  0  ~/environment.c
+|4,39,207,0,1690237166,"~/environment.c"
+-'  212  0  ~/environment.c
+|4,39,212,0,1690237166,"~/environment.c"
+-'  209  0  ~/environment.c
+|4,39,209,0,1690237166,"~/environment.c"
+-'  214  0  ~/environment.c
+|4,39,214,0,1690237166,"~/environment.c"
+-'  207  0  ~/environment.c
+|4,39,207,0,1690237166,"~/environment.c"
+-'  212  0  ~/environment.c
+|4,39,212,0,1690237166,"~/environment.c"
+-'  209  0  ~/environment.c
+|4,39,209,0,1690237166,"~/environment.c"
+-'  214  0  ~/environment.c
+|4,39,214,0,1690237166,"~/environment.c"
+-'  214  0  ~/environment.c
+|4,39,214,0,1690237166,"~/environment.c"
+-'  214  0  ~/environment.c
+|4,39,214,0,1690237166,"~/environment.c"
+-'  214  0  ~/environment.c
+|4,39,214,0,1690237166,"~/environment.c"
+-'  214  0  ~/environment.c
+|4,39,214,0,1690237166,"~/environment.c"
+-'  214  0  ~/environment.c
+|4,39,214,0,1690237166,"~/environment.c"
+-'  214  0  ~/environment.c
+|4,39,214,0,1690237166,"~/environment.c"
 -'  214  0  ~/environment.c
 |4,39,214,0,1690237166,"~/environment.c"
 -'  1  0  ~/environment.c
 |4,39,1,0,1690236538,"~/environment.c"
--'  6  0  ~/.git/MERGE_MSG
-|4,39,6,0,1690226029,"~/.git/MERGE_MSG"
--'  6  0  ~/.git/MERGE_MSG
-|4,39,6,0,1690226029,"~/.git/MERGE_MSG"
--'  1  0  ~/.git/MERGE_MSG
-|4,39,1,0,1690226026,"~/.git/MERGE_MSG"
--'  1  0  ~/.git/MERGE_MSG
-|4,39,1,0,1690226026,"~/.git/MERGE_MSG"
--'  166  23  ~/command.c
-|4,39,166,23,1690225934,"~/command.c"
--'  166  23  ~/command.c
-|4,39,166,23,1690225934,"~/command.c"
--'  166  23  ~/command.c
-|4,39,166,23,1690225934,"~/command.c"
--'  166  23  ~/command.c
-|4,39,166,23,1690225934,"~/command.c"
--'  1  0  ~/command.c
-|4,39,1,0,1690225870,"~/command.c"
--'  1  0  ~/command.c
-|4,39,1,0,1690225870,"~/command.c"
--'  1  0  ~/command.c
-|4,39,1,0,1690225870,"~/command.c"
--'  1  0  ~/command.c
-|4,39,1,0,1690225870,"~/command.c"
--'  44  0  ~/command_shell.c
-|4,39,44,0,1690225861,"~/command_shell.c"
--'  44  0  ~/command_shell.c
-|4,39,44,0,1690225861,"~/command_shell.c"
--'  44  0  ~/command_shell.c
-|4,39,44,0,1690225861,"~/command_shell.c"
--'  44  0  ~/command_shell.c
-|4,39,44,0,1690225861,"~/command_shell.c"
--'  44  0  ~/command_shell.c
-|4,39,44,0,1690225861,"~/command_shell.c"
--'  44  0  ~/command_shell.c
-|4,39,44,0,1690225861,"~/command_shell.c"
--'  44  0  ~/command_shell.c
-|4,39,44,0,1690225861,"~/command_shell.c"
--'  44  0  ~/command_shell.c
-|4,39,44,0,1690225861,"~/command_shell.c"
--'  1  0  ~/command.c
-|4,39,1,0,1690225797,"~/command.c"
--'  1  0  ~/command.c
-|4,39,1,0,1690225797,"~/command.c"
--'  1  0  ~/command.c
-|4,39,1,0,1690225797,"~/command.c"
--'  1  0  ~/command.c
-|4,39,1,0,1690225797,"~/command.c"
--'  1  0  ~/command.c
-|4,39,1,0,1690225797,"~/command.c"
--'  1  0  ~/command.c
-|4,39,1,0,1690225797,"~/command.c"
--'  1  0  ~/command.c
-|4,39,1,0,1690225797,"~/command.c"
--'  1  0  ~/command.c
-|4,39,1,0,1690225797,"~/command.c"
--'  1  1  ~/command.c
-|4,39,1,1,1690225128,"~/command.c"
--'  1  1  ~/command.c
-|4,39,1,1,1690225128,"~/command.c"
--'  1  1  ~/command.c
-|4,39,1,1,1690225128,"~/command.c"
--'  1  1  ~/command.c
-|4,39,1,1,1690225128,"~/command.c"
--'  1  1  ~/command.c
-|4,39,1,1,1690225128,"~/command.c"
--'  1  1  ~/command.c
-|4,39,1,1,1690225128,"~/command.c"
--'  1  1  ~/command.c
-|4,39,1,1,1690225128,"~/command.c"
--'  1  1  ~/command.c
-|4,39,1,1,1690225128,"~/command.c"
--'  57  1  ~/command.c
-|4,39,57,1,1690225037,"~/command.c"
--'  57  1  ~/command.c
-|4,39,57,1,1690225037,"~/command.c"
--'  57  1  ~/command.c
-|4,39,57,1,1690225037,"~/command.c"
--'  57  1  ~/command.c
-|4,39,57,1,1690225037,"~/command.c"
--'  57  1  ~/command.c
-|4,39,57,1,1690225037,"~/command.c"
--'  57  1  ~/command.c
-|4,39,57,1,1690225037,"~/command.c"
--'  57  1  ~/command.c
-|4,39,57,1,1690225037,"~/command.c"
--'  57  1  ~/command.c
-|4,39,57,1,1690225037,"~/command.c"
--'  57  1  ~/command.c
-|4,39,57,1,1690225037,"~/command.c"
--'  57  1  ~/command.c
-|4,39,57,1,1690225037,"~/command.c"
--'  57  1  ~/command.c
-|4,39,57,1,1690225037,"~/command.c"
--'  57  1  ~/command.c
-|4,39,57,1,1690225037,"~/command.c"
--'  57  1  ~/command.c
-|4,39,57,1,1690225037,"~/command.c"
--'  57  1  ~/command.c
-|4,39,57,1,1690225037,"~/command.c"
--'  57  1  ~/command.c
-|4,39,57,1,1690225037,"~/command.c"
--'  57  1  ~/command.c
-|4,39,57,1,1690225037,"~/command.c"
--'  57  1  ~/command.c
-|4,39,57,1,1690225037,"~/command.c"
--'  57  1  ~/command.c
-|4,39,57,1,1690225037,"~/command.c"
--'  57  1  ~/command.c
-|4,39,57,1,1690225037,"~/command.c"
--'  57  1  ~/command.c
-|4,39,57,1,1690225037,"~/command.c"
--'  44  0  ~/command_shell.c
-|4,39,44,0,1690225030,"~/command_shell.c"
--'  44  0  ~/command_shell.c
-|4,39,44,0,1690225030,"~/command_shell.c"
--'  44  0  ~/command_shell.c
-|4,39,44,0,1690225030,"~/command_shell.c"
--'  44  0  ~/command_shell.c
-|4,39,44,0,1690225030,"~/command_shell.c"
--'  44  0  ~/command_shell.c
-|4,39,44,0,1690225030,"~/command_shell.c"
--'  44  0  ~/command_shell.c
-|4,39,44,0,1690225030,"~/command_shell.c"
--'  44  0  ~/command_shell.c
-|4,39,44,0,1690225030,"~/command_shell.c"
--'  44  0  ~/command_shell.c
-|4,39,44,0,1690225030,"~/command_shell.c"
--'  44  0  ~/command_shell.c
-|4,39,44,0,1690225030,"~/command_shell.c"
--'  44  0  ~/command_shell.c
-|4,39,44,0,1690225030,"~/command_shell.c"
--'  44  0  ~/command_shell.c
-|4,39,44,0,1690225030,"~/command_shell.c"
--'  44  0  ~/command_shell.c
-|4,39,44,0,1690225030,"~/command_shell.c"
--'  44  0  ~/command_shell.c
-|4,39,44,0,1690225030,"~/command_shell.c"
--'  44  0  ~/command_shell.c
-|4,39,44,0,1690225030,"~/command_shell.c"
--'  44  0  ~/command_shell.c
-|4,39,44,0,1690225030,"~/command_shell.c"
--'  44  0  ~/command_shell.c
-|4,39,44,0,1690225030,"~/command_shell.c"
--'  44  0  ~/command_shell.c
-|4,39,44,0,1690225030,"~/command_shell.c"
--'  44  0  ~/command_shell.c
-|4,39,44,0,1690225030,"~/command_shell.c"
--'  44  0  ~/command_shell.c
-|4,39,44,0,1690225030,"~/command_shell.c"
--'  44  0  ~/command_shell.c
-|4,39,44,0,1690225030,"~/command_shell.c"
--'  44  0  ~/command_shell.c
-|4,39,44,0,1690225030,"~/command_shell.c"
--'  44  0  ~/command_shell.c
-|4,39,44,0,1690225030,"~/command_shell.c"
--'  44  0  ~/command_shell.c
-|4,39,44,0,1690225030,"~/command_shell.c"
--'  44  0  ~/command_shell.c
-|4,39,44,0,1690225030,"~/command_shell.c"
--'  44  0  ~/command_shell.c
-|4,39,44,0,1690225030,"~/command_shell.c"
--'  44  0  ~/command_shell.c
-|4,39,44,0,1690225030,"~/command_shell.c"
--'  44  0  ~/command_shell.c
-|4,39,44,0,1690225030,"~/command_shell.c"
--'  44  0  ~/command_shell.c
-|4,39,44,0,1690225030,"~/command_shell.c"
--'  44  0  ~/command_shell.c
-|4,39,44,0,1690225030,"~/command_shell.c"
--'  44  0  ~/command_shell.c
-|4,39,44,0,1690225030,"~/command_shell.c"
--'  44  0  ~/command_shell.c
-|4,39,44,0,1690225030,"~/command_shell.c"
--'  44  0  ~/command_shell.c
-|4,39,44,0,1690225030,"~/command_shell.c"
--'  1  9  ~/command_shell.c
-|4,39,1,9,1690225002,"~/command_shell.c"
--'  1  9  ~/command_shell.c
-|4,39,1,9,1690225002,"~/command_shell.c"
--'  1  9  ~/command_shell.c
-|4,39,1,9,1690225002,"~/command_shell.c"
--'  1  9  ~/command_shell.c
-|4,39,1,9,1690225002,"~/command_shell.c"
--'  1  9  ~/command_shell.c
-|4,39,1,9,1690225002,"~/command_shell.c"
--'  1  9  ~/command_shell.c
-|4,39,1,9,1690225002,"~/command_shell.c"
--'  1  9  ~/command_shell.c
-|4,39,1,9,1690225002,"~/command_shell.c"
--'  1  9  ~/command_shell.c
-|4,39,1,9,1690225002,"~/command_shell.c"
--'  1  9  ~/command_shell.c
-|4,39,1,9,1690225002,"~/command_shell.c"
--'  1  9  ~/command_shell.c
-|4,39,1,9,1690225002,"~/command_shell.c"
+-'  1  0  ~/environment.c
+|4,39,1,0,1690236538,"~/environment.c"
+-'  1  0  ~/environment.c
+|4,39,1,0,1690236538,"~/environment.c"
+-'  1  0  ~/environment.c
+|4,39,1,0,1690236538,"~/environment.c"
 
 # History of marks within files (newest to oldest):
 
 > ~/environment.c
-	*	1690237162	0
-	"	214	0
-	^	214	1
-	.	170	37
+	*	1690239018	0
+	"	40	8
+	^	40	9
+	.	40	9
 	+	1	24
 	+	7	55
 	+	7	0
@@ -267,37 +267,60 @@
 	+	24	0
 	+	2	0
 	+	10	0
-	+	62	0
+	+	55	0
+	+	41	0
+	+	42	0
+	+	43	1
+	+	38	32
+	+	39	0
+	+	45	1
+	+	46	1
+	+	81	24
+	+	106	0
+	+	88	0
+	+	86	30
+	+	88	0
+	+	106	1
+	+	90	0
+	+	137	32
+	+	110	42
+	+	111	42
+	+	112	0
+	+	110	2
+	+	114	3
+	+	106	1
+	+	137	33
+	+	137	394
+	+	137	175
+	+	137	167
+	+	137	68
+	+	137	202
+	+	137	1228
+	+	137	487
+	+	137	480
+	+	137	514
+	+	137	965
+	+	138	0
+	+	38	0
+	+	39	0
+	+	42	0
 	+	44	0
 	+	46	0
 	+	48	0
-	+	40	1
+	+	50	7
 	+	41	0
-	+	51	0
-	+	53	0
-	+	88	24
-	+	113	0
-	+	95	0
-	+	93	30
-	+	95	0
-	+	113	1
-	+	97	0
-	+	145	0
-	+	117	42
-	+	118	42
-	+	119	0
-	+	117	2
-	+	121	3
-	+	113	1
-	+	146	0
-	+	166	0
-	+	151	0
-	+	150	58
-	+	148	32
-	+	152	3
-	+	214	0
-	+	171	0
-	+	170	37
+	+	47	0
+	+	40	9
+
+> ~/environment1.c
+	*	1690238785	0
+	"	1	0
+	^	1	1
+	.	58	0
+	+	48	488
+	+	48	19
+	+	57	32
+	+	58	0
 
 > ~/.git/MERGE_MSG
 	*	1690226028	0
