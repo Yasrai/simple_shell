@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1690225934,,"wq"
+|2,0,1690237166,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,40 +25,100 @@
 # Registers:
 
 # File marks:
-'0  166  23  ~/command.c
-|4,48,166,23,1690225934,"~/command.c"
-'1  44  0  ~/command_shell.c
-|4,49,44,0,1690225861,"~/command_shell.c"
-'2  1  0  ~/command.c
-|4,50,1,0,1690225797,"~/command.c"
-'3  1  0  ~/command.c
-|4,51,1,0,1690225797,"~/command.c"
-'4  1  1  ~/command.c
-|4,52,1,1,1690225128,"~/command.c"
-'5  1  1  ~/command.c
-|4,53,1,1,1690225128,"~/command.c"
-'6  44  0  ~/command_shell.c
-|4,54,44,0,1690225030,"~/command_shell.c"
-'7  1  0  ~/.git/MERGE_MSG
-|4,55,1,0,1690224642,"~/.git/MERGE_MSG"
-'8  1  9  ~/command_shell.c
-|4,56,1,9,1690224548,"~/command_shell.c"
-'9  1  9  ~/command_shell.c
-|4,57,1,9,1690224548,"~/command_shell.c"
+'0  214  0  ~/environment.c
+|4,48,214,0,1690237166,"~/environment.c"
+'1  6  0  ~/.git/MERGE_MSG
+|4,49,6,0,1690226029,"~/.git/MERGE_MSG"
+'2  166  23  ~/command.c
+|4,50,166,23,1690225934,"~/command.c"
+'3  44  0  ~/command_shell.c
+|4,51,44,0,1690225861,"~/command_shell.c"
+'4  1  0  ~/command.c
+|4,52,1,0,1690225797,"~/command.c"
+'5  1  0  ~/command.c
+|4,53,1,0,1690225797,"~/command.c"
+'6  1  1  ~/command.c
+|4,54,1,1,1690225128,"~/command.c"
+'7  1  1  ~/command.c
+|4,55,1,1,1690225128,"~/command.c"
+'8  44  0  ~/command_shell.c
+|4,56,44,0,1690225030,"~/command_shell.c"
+'9  1  0  ~/.git/MERGE_MSG
+|4,57,1,0,1690224642,"~/.git/MERGE_MSG"
 
 # Jumplist (newest first):
+-'  214  0  ~/environment.c
+|4,39,214,0,1690237166,"~/environment.c"
+-'  1  0  ~/environment.c
+|4,39,1,0,1690236538,"~/environment.c"
+-'  6  0  ~/.git/MERGE_MSG
+|4,39,6,0,1690226029,"~/.git/MERGE_MSG"
+-'  6  0  ~/.git/MERGE_MSG
+|4,39,6,0,1690226029,"~/.git/MERGE_MSG"
+-'  1  0  ~/.git/MERGE_MSG
+|4,39,1,0,1690226026,"~/.git/MERGE_MSG"
+-'  1  0  ~/.git/MERGE_MSG
+|4,39,1,0,1690226026,"~/.git/MERGE_MSG"
 -'  166  23  ~/command.c
 |4,39,166,23,1690225934,"~/command.c"
+-'  166  23  ~/command.c
+|4,39,166,23,1690225934,"~/command.c"
+-'  166  23  ~/command.c
+|4,39,166,23,1690225934,"~/command.c"
+-'  166  23  ~/command.c
+|4,39,166,23,1690225934,"~/command.c"
+-'  1  0  ~/command.c
+|4,39,1,0,1690225870,"~/command.c"
+-'  1  0  ~/command.c
+|4,39,1,0,1690225870,"~/command.c"
+-'  1  0  ~/command.c
+|4,39,1,0,1690225870,"~/command.c"
 -'  1  0  ~/command.c
 |4,39,1,0,1690225870,"~/command.c"
 -'  44  0  ~/command_shell.c
 |4,39,44,0,1690225861,"~/command_shell.c"
 -'  44  0  ~/command_shell.c
 |4,39,44,0,1690225861,"~/command_shell.c"
+-'  44  0  ~/command_shell.c
+|4,39,44,0,1690225861,"~/command_shell.c"
+-'  44  0  ~/command_shell.c
+|4,39,44,0,1690225861,"~/command_shell.c"
+-'  44  0  ~/command_shell.c
+|4,39,44,0,1690225861,"~/command_shell.c"
+-'  44  0  ~/command_shell.c
+|4,39,44,0,1690225861,"~/command_shell.c"
+-'  44  0  ~/command_shell.c
+|4,39,44,0,1690225861,"~/command_shell.c"
+-'  44  0  ~/command_shell.c
+|4,39,44,0,1690225861,"~/command_shell.c"
 -'  1  0  ~/command.c
 |4,39,1,0,1690225797,"~/command.c"
 -'  1  0  ~/command.c
 |4,39,1,0,1690225797,"~/command.c"
+-'  1  0  ~/command.c
+|4,39,1,0,1690225797,"~/command.c"
+-'  1  0  ~/command.c
+|4,39,1,0,1690225797,"~/command.c"
+-'  1  0  ~/command.c
+|4,39,1,0,1690225797,"~/command.c"
+-'  1  0  ~/command.c
+|4,39,1,0,1690225797,"~/command.c"
+-'  1  0  ~/command.c
+|4,39,1,0,1690225797,"~/command.c"
+-'  1  0  ~/command.c
+|4,39,1,0,1690225797,"~/command.c"
+-'  1  1  ~/command.c
+|4,39,1,1,1690225128,"~/command.c"
+-'  1  1  ~/command.c
+|4,39,1,1,1690225128,"~/command.c"
+-'  1  1  ~/command.c
+|4,39,1,1,1690225128,"~/command.c"
+-'  1  1  ~/command.c
+|4,39,1,1,1690225128,"~/command.c"
+-'  1  1  ~/command.c
+|4,39,1,1,1690225128,"~/command.c"
+-'  1  1  ~/command.c
+|4,39,1,1,1690225128,"~/command.c"
 -'  1  1  ~/command.c
 |4,39,1,1,1690225128,"~/command.c"
 -'  1  1  ~/command.c
@@ -73,6 +133,84 @@
 |4,39,57,1,1690225037,"~/command.c"
 -'  57  1  ~/command.c
 |4,39,57,1,1690225037,"~/command.c"
+-'  57  1  ~/command.c
+|4,39,57,1,1690225037,"~/command.c"
+-'  57  1  ~/command.c
+|4,39,57,1,1690225037,"~/command.c"
+-'  57  1  ~/command.c
+|4,39,57,1,1690225037,"~/command.c"
+-'  57  1  ~/command.c
+|4,39,57,1,1690225037,"~/command.c"
+-'  57  1  ~/command.c
+|4,39,57,1,1690225037,"~/command.c"
+-'  57  1  ~/command.c
+|4,39,57,1,1690225037,"~/command.c"
+-'  57  1  ~/command.c
+|4,39,57,1,1690225037,"~/command.c"
+-'  57  1  ~/command.c
+|4,39,57,1,1690225037,"~/command.c"
+-'  57  1  ~/command.c
+|4,39,57,1,1690225037,"~/command.c"
+-'  57  1  ~/command.c
+|4,39,57,1,1690225037,"~/command.c"
+-'  57  1  ~/command.c
+|4,39,57,1,1690225037,"~/command.c"
+-'  57  1  ~/command.c
+|4,39,57,1,1690225037,"~/command.c"
+-'  57  1  ~/command.c
+|4,39,57,1,1690225037,"~/command.c"
+-'  57  1  ~/command.c
+|4,39,57,1,1690225037,"~/command.c"
+-'  57  1  ~/command.c
+|4,39,57,1,1690225037,"~/command.c"
+-'  44  0  ~/command_shell.c
+|4,39,44,0,1690225030,"~/command_shell.c"
+-'  44  0  ~/command_shell.c
+|4,39,44,0,1690225030,"~/command_shell.c"
+-'  44  0  ~/command_shell.c
+|4,39,44,0,1690225030,"~/command_shell.c"
+-'  44  0  ~/command_shell.c
+|4,39,44,0,1690225030,"~/command_shell.c"
+-'  44  0  ~/command_shell.c
+|4,39,44,0,1690225030,"~/command_shell.c"
+-'  44  0  ~/command_shell.c
+|4,39,44,0,1690225030,"~/command_shell.c"
+-'  44  0  ~/command_shell.c
+|4,39,44,0,1690225030,"~/command_shell.c"
+-'  44  0  ~/command_shell.c
+|4,39,44,0,1690225030,"~/command_shell.c"
+-'  44  0  ~/command_shell.c
+|4,39,44,0,1690225030,"~/command_shell.c"
+-'  44  0  ~/command_shell.c
+|4,39,44,0,1690225030,"~/command_shell.c"
+-'  44  0  ~/command_shell.c
+|4,39,44,0,1690225030,"~/command_shell.c"
+-'  44  0  ~/command_shell.c
+|4,39,44,0,1690225030,"~/command_shell.c"
+-'  44  0  ~/command_shell.c
+|4,39,44,0,1690225030,"~/command_shell.c"
+-'  44  0  ~/command_shell.c
+|4,39,44,0,1690225030,"~/command_shell.c"
+-'  44  0  ~/command_shell.c
+|4,39,44,0,1690225030,"~/command_shell.c"
+-'  44  0  ~/command_shell.c
+|4,39,44,0,1690225030,"~/command_shell.c"
+-'  44  0  ~/command_shell.c
+|4,39,44,0,1690225030,"~/command_shell.c"
+-'  44  0  ~/command_shell.c
+|4,39,44,0,1690225030,"~/command_shell.c"
+-'  44  0  ~/command_shell.c
+|4,39,44,0,1690225030,"~/command_shell.c"
+-'  44  0  ~/command_shell.c
+|4,39,44,0,1690225030,"~/command_shell.c"
+-'  44  0  ~/command_shell.c
+|4,39,44,0,1690225030,"~/command_shell.c"
+-'  44  0  ~/command_shell.c
+|4,39,44,0,1690225030,"~/command_shell.c"
+-'  44  0  ~/command_shell.c
+|4,39,44,0,1690225030,"~/command_shell.c"
+-'  44  0  ~/command_shell.c
+|4,39,44,0,1690225030,"~/command_shell.c"
 -'  44  0  ~/command_shell.c
 |4,39,44,0,1690225030,"~/command_shell.c"
 -'  44  0  ~/command_shell.c
@@ -109,146 +247,61 @@
 |4,39,1,9,1690225002,"~/command_shell.c"
 -'  1  9  ~/command_shell.c
 |4,39,1,9,1690225002,"~/command_shell.c"
--'  1  0  ~/.git/MERGE_MSG
-|4,39,1,0,1690224642,"~/.git/MERGE_MSG"
--'  1  0  ~/.git/MERGE_MSG
-|4,39,1,0,1690224642,"~/.git/MERGE_MSG"
--'  1  0  ~/.git/MERGE_MSG
-|4,39,1,0,1690224642,"~/.git/MERGE_MSG"
--'  1  0  ~/.git/MERGE_MSG
-|4,39,1,0,1690224642,"~/.git/MERGE_MSG"
--'  1  0  ~/.git/MERGE_MSG
-|4,39,1,0,1690224642,"~/.git/MERGE_MSG"
--'  1  0  ~/.git/MERGE_MSG
-|4,39,1,0,1690224642,"~/.git/MERGE_MSG"
--'  1  0  ~/.git/MERGE_MSG
-|4,39,1,0,1690224642,"~/.git/MERGE_MSG"
--'  1  0  ~/.git/MERGE_MSG
-|4,39,1,0,1690224642,"~/.git/MERGE_MSG"
--'  1  0  ~/.git/MERGE_MSG
-|4,39,1,0,1690224642,"~/.git/MERGE_MSG"
--'  1  0  ~/.git/MERGE_MSG
-|4,39,1,0,1690224642,"~/.git/MERGE_MSG"
--'  1  0  ~/.git/MERGE_MSG
-|4,39,1,0,1690224642,"~/.git/MERGE_MSG"
--'  1  0  ~/.git/MERGE_MSG
-|4,39,1,0,1690224642,"~/.git/MERGE_MSG"
--'  1  0  ~/.git/MERGE_MSG
-|4,39,1,0,1690224642,"~/.git/MERGE_MSG"
--'  1  0  ~/.git/MERGE_MSG
-|4,39,1,0,1690224642,"~/.git/MERGE_MSG"
--'  1  0  ~/.git/MERGE_MSG
-|4,39,1,0,1690224642,"~/.git/MERGE_MSG"
--'  1  0  ~/.git/MERGE_MSG
-|4,39,1,0,1690224642,"~/.git/MERGE_MSG"
--'  1  0  ~/.git/MERGE_MSG
-|4,39,1,0,1690224642,"~/.git/MERGE_MSG"
--'  1  0  ~/.git/MERGE_MSG
-|4,39,1,0,1690224642,"~/.git/MERGE_MSG"
--'  1  0  ~/.git/MERGE_MSG
-|4,39,1,0,1690224642,"~/.git/MERGE_MSG"
--'  1  0  ~/.git/MERGE_MSG
-|4,39,1,0,1690224642,"~/.git/MERGE_MSG"
--'  1  0  ~/.git/MERGE_MSG
-|4,39,1,0,1690224642,"~/.git/MERGE_MSG"
--'  1  0  ~/.git/MERGE_MSG
-|4,39,1,0,1690224642,"~/.git/MERGE_MSG"
--'  1  0  ~/.git/MERGE_MSG
-|4,39,1,0,1690224642,"~/.git/MERGE_MSG"
--'  1  0  ~/.git/MERGE_MSG
-|4,39,1,0,1690224642,"~/.git/MERGE_MSG"
--'  1  0  ~/.git/MERGE_MSG
-|4,39,1,0,1690224642,"~/.git/MERGE_MSG"
--'  1  0  ~/.git/MERGE_MSG
-|4,39,1,0,1690224642,"~/.git/MERGE_MSG"
--'  1  0  ~/.git/MERGE_MSG
-|4,39,1,0,1690224642,"~/.git/MERGE_MSG"
--'  1  0  ~/.git/MERGE_MSG
-|4,39,1,0,1690224642,"~/.git/MERGE_MSG"
--'  1  0  ~/.git/MERGE_MSG
-|4,39,1,0,1690224642,"~/.git/MERGE_MSG"
--'  1  0  ~/.git/MERGE_MSG
-|4,39,1,0,1690224642,"~/.git/MERGE_MSG"
--'  1  0  ~/.git/MERGE_MSG
-|4,39,1,0,1690224642,"~/.git/MERGE_MSG"
--'  1  0  ~/.git/MERGE_MSG
-|4,39,1,0,1690224642,"~/.git/MERGE_MSG"
--'  1  9  ~/command_shell.c
-|4,39,1,9,1690224548,"~/command_shell.c"
--'  1  9  ~/command_shell.c
-|4,39,1,9,1690224548,"~/command_shell.c"
--'  1  9  ~/command_shell.c
-|4,39,1,9,1690224548,"~/command_shell.c"
--'  1  9  ~/command_shell.c
-|4,39,1,9,1690224548,"~/command_shell.c"
--'  1  9  ~/command_shell.c
-|4,39,1,9,1690224548,"~/command_shell.c"
--'  1  9  ~/command_shell.c
-|4,39,1,9,1690224548,"~/command_shell.c"
--'  1  9  ~/command_shell.c
-|4,39,1,9,1690224548,"~/command_shell.c"
--'  1  9  ~/command_shell.c
-|4,39,1,9,1690224548,"~/command_shell.c"
--'  1  9  ~/command_shell.c
-|4,39,1,9,1690224548,"~/command_shell.c"
--'  1  9  ~/command_shell.c
-|4,39,1,9,1690224548,"~/command_shell.c"
--'  1  9  ~/command_shell.c
-|4,39,1,9,1690224548,"~/command_shell.c"
--'  1  9  ~/command_shell.c
-|4,39,1,9,1690224548,"~/command_shell.c"
--'  1  9  ~/command_shell.c
-|4,39,1,9,1690224548,"~/command_shell.c"
--'  1  9  ~/command_shell.c
-|4,39,1,9,1690224548,"~/command_shell.c"
--'  1  9  ~/command_shell.c
-|4,39,1,9,1690224548,"~/command_shell.c"
--'  1  9  ~/command_shell.c
-|4,39,1,9,1690224548,"~/command_shell.c"
--'  57  1  ~/command.c
-|4,39,57,1,1690224418,"~/command.c"
--'  57  1  ~/command.c
-|4,39,57,1,1690224418,"~/command.c"
--'  57  1  ~/command.c
-|4,39,57,1,1690224418,"~/command.c"
--'  57  1  ~/command.c
-|4,39,57,1,1690224418,"~/command.c"
--'  57  1  ~/command.c
-|4,39,57,1,1690224418,"~/command.c"
--'  57  1  ~/command.c
-|4,39,57,1,1690224418,"~/command.c"
--'  57  1  ~/command.c
-|4,39,57,1,1690224418,"~/command.c"
--'  57  1  ~/command.c
-|4,39,57,1,1690224418,"~/command.c"
--'  57  1  ~/command.c
-|4,39,57,1,1690224418,"~/command.c"
--'  57  1  ~/command.c
-|4,39,57,1,1690224418,"~/command.c"
--'  57  1  ~/command.c
-|4,39,57,1,1690224418,"~/command.c"
--'  57  1  ~/command.c
-|4,39,57,1,1690224418,"~/command.c"
--'  57  1  ~/command.c
-|4,39,57,1,1690224418,"~/command.c"
--'  57  1  ~/command.c
-|4,39,57,1,1690224418,"~/command.c"
--'  57  1  ~/command.c
-|4,39,57,1,1690224418,"~/command.c"
--'  57  1  ~/command.c
-|4,39,57,1,1690224418,"~/command.c"
--'  136  10  ~/command.c
-|4,39,136,10,1690224353,"~/command.c"
--'  133  10  ~/command.c
-|4,39,133,10,1690224353,"~/command.c"
--'  136  10  ~/command.c
-|4,39,136,10,1690224353,"~/command.c"
--'  133  10  ~/command.c
-|4,39,133,10,1690224353,"~/command.c"
--'  136  10  ~/command.c
-|4,39,136,10,1690224353,"~/command.c"
 
 # History of marks within files (newest to oldest):
+
+> ~/environment.c
+	*	1690237162	0
+	"	214	0
+	^	214	1
+	.	170	37
+	+	1	24
+	+	7	55
+	+	7	0
+	+	6	0
+	+	7	45
+	+	7	2
+	+	7	42
+	+	8	56
+	+	9	3
+	+	24	0
+	+	2	0
+	+	10	0
+	+	62	0
+	+	44	0
+	+	46	0
+	+	48	0
+	+	40	1
+	+	41	0
+	+	51	0
+	+	53	0
+	+	88	24
+	+	113	0
+	+	95	0
+	+	93	30
+	+	95	0
+	+	113	1
+	+	97	0
+	+	145	0
+	+	117	42
+	+	118	42
+	+	119	0
+	+	117	2
+	+	121	3
+	+	113	1
+	+	146	0
+	+	166	0
+	+	151	0
+	+	150	58
+	+	148	32
+	+	152	3
+	+	214	0
+	+	171	0
+	+	170	37
+
+> ~/.git/MERGE_MSG
+	*	1690226028	0
+	"	6	0
 
 > ~/command.c
 	*	1690225933	0
@@ -322,10 +375,6 @@
 	+	5	0
 	+	7	3
 	+	2	0
-
-> ~/.git/MERGE_MSG
-	*	1690224641	0
-	"	1	0
 
 > ~/.git/COMMIT_EDITMSG
 	*	1690221710	0
