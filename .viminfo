@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1690239019,,"wq"
+|2,0,1690285605,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,38 +25,158 @@
 # Registers:
 
 # File marks:
-'0  40  8  ~/environment.c
-|4,48,40,8,1690239019,"~/environment.c"
-'1  46  0  ~/environment.c
-|4,49,46,0,1690238980,"~/environment.c"
-'2  46  0  ~/environment.c
-|4,50,46,0,1690238980,"~/environment.c"
-'3  138  0  ~/environment.c
-|4,51,138,0,1690238930,"~/environment.c"
-'4  140  0  ~/environment.c
-|4,52,140,0,1690238930,"~/environment.c"
-'5  138  0  ~/environment.c
-|4,53,138,0,1690238930,"~/environment.c"
-'6  140  0  ~/environment.c
-|4,54,140,0,1690238930,"~/environment.c"
-'7  1  0  ~/environment1.c
-|4,55,1,0,1690238786,"~/environment1.c"
-'8  48  18  ~/environment1.c
-|4,56,48,18,1690238674,"~/environment1.c"
-'9  48  18  ~/environment1.c
-|4,57,48,18,1690238674,"~/environment1.c"
+'0  206  0  ~/command_exec.c
+|4,48,206,0,1690285605,"~/command_exec.c"
+'1  1  20  ~/command_exec.c
+|4,49,1,20,1690285357,"~/command_exec.c"
+'2  1  20  ~/command_exec.c
+|4,50,1,20,1690285357,"~/command_exec.c"
+'3  29  0  ~/get-builtin.c
+|4,51,29,0,1690285178,"~/get-builtin.c"
+'4  40  8  ~/environment.c
+|4,52,40,8,1690239019,"~/environment.c"
+'5  46  0  ~/environment.c
+|4,53,46,0,1690238980,"~/environment.c"
+'6  46  0  ~/environment.c
+|4,54,46,0,1690238980,"~/environment.c"
+'7  138  0  ~/environment.c
+|4,55,138,0,1690238930,"~/environment.c"
+'8  140  0  ~/environment.c
+|4,56,140,0,1690238930,"~/environment.c"
+'9  138  0  ~/environment.c
+|4,57,138,0,1690238930,"~/environment.c"
 
 # Jumplist (newest first):
+-'  206  0  ~/command_exec.c
+|4,39,206,0,1690285605,"~/command_exec.c"
+-'  1  20  ~/command_exec.c
+|4,39,1,20,1690285373,"~/command_exec.c"
+-'  1  20  ~/command_exec.c
+|4,39,1,20,1690285357,"~/command_exec.c"
+-'  29  0  ~/get-builtin.c
+|4,39,29,0,1690285178,"~/get-builtin.c"
+-'  29  0  ~/get-builtin.c
+|4,39,29,0,1690285178,"~/get-builtin.c"
+-'  29  0  ~/get-builtin.c
+|4,39,29,0,1690285178,"~/get-builtin.c"
+-'  29  0  ~/get-builtin.c
+|4,39,29,0,1690285178,"~/get-builtin.c"
+-'  1  0  ~/get-builtin.c
+|4,39,1,0,1690285049,"~/get-builtin.c"
+-'  1  0  ~/get-builtin.c
+|4,39,1,0,1690285049,"~/get-builtin.c"
+-'  1  0  ~/get-builtin.c
+|4,39,1,0,1690285049,"~/get-builtin.c"
+-'  1  0  ~/get-builtin.c
+|4,39,1,0,1690285049,"~/get-builtin.c"
+-'  40  8  ~/environment.c
+|4,39,40,8,1690239019,"~/environment.c"
+-'  40  8  ~/environment.c
+|4,39,40,8,1690239019,"~/environment.c"
+-'  40  8  ~/environment.c
+|4,39,40,8,1690239019,"~/environment.c"
+-'  40  8  ~/environment.c
+|4,39,40,8,1690239019,"~/environment.c"
+-'  40  8  ~/environment.c
+|4,39,40,8,1690239019,"~/environment.c"
+-'  40  8  ~/environment.c
+|4,39,40,8,1690239019,"~/environment.c"
+-'  40  8  ~/environment.c
+|4,39,40,8,1690239019,"~/environment.c"
 -'  40  8  ~/environment.c
 |4,39,40,8,1690239019,"~/environment.c"
 -'  46  0  ~/environment.c
 |4,39,46,0,1690238996,"~/environment.c"
+-'  46  0  ~/environment.c
+|4,39,46,0,1690238996,"~/environment.c"
+-'  46  0  ~/environment.c
+|4,39,46,0,1690238996,"~/environment.c"
+-'  46  0  ~/environment.c
+|4,39,46,0,1690238996,"~/environment.c"
+-'  46  0  ~/environment.c
+|4,39,46,0,1690238996,"~/environment.c"
+-'  46  0  ~/environment.c
+|4,39,46,0,1690238996,"~/environment.c"
+-'  46  0  ~/environment.c
+|4,39,46,0,1690238996,"~/environment.c"
+-'  46  0  ~/environment.c
+|4,39,46,0,1690238996,"~/environment.c"
+-'  46  0  ~/environment.c
+|4,39,46,0,1690238980,"~/environment.c"
+-'  46  0  ~/environment.c
+|4,39,46,0,1690238980,"~/environment.c"
+-'  46  0  ~/environment.c
+|4,39,46,0,1690238980,"~/environment.c"
+-'  46  0  ~/environment.c
+|4,39,46,0,1690238980,"~/environment.c"
+-'  46  0  ~/environment.c
+|4,39,46,0,1690238980,"~/environment.c"
+-'  46  0  ~/environment.c
+|4,39,46,0,1690238980,"~/environment.c"
+-'  46  0  ~/environment.c
+|4,39,46,0,1690238980,"~/environment.c"
 -'  46  0  ~/environment.c
 |4,39,46,0,1690238980,"~/environment.c"
 -'  138  0  ~/environment.c
 |4,39,138,0,1690238946,"~/environment.c"
 -'  138  0  ~/environment.c
 |4,39,138,0,1690238946,"~/environment.c"
+-'  138  0  ~/environment.c
+|4,39,138,0,1690238946,"~/environment.c"
+-'  138  0  ~/environment.c
+|4,39,138,0,1690238946,"~/environment.c"
+-'  138  0  ~/environment.c
+|4,39,138,0,1690238946,"~/environment.c"
+-'  138  0  ~/environment.c
+|4,39,138,0,1690238946,"~/environment.c"
+-'  138  0  ~/environment.c
+|4,39,138,0,1690238946,"~/environment.c"
+-'  138  0  ~/environment.c
+|4,39,138,0,1690238946,"~/environment.c"
+-'  138  0  ~/environment.c
+|4,39,138,0,1690238946,"~/environment.c"
+-'  138  0  ~/environment.c
+|4,39,138,0,1690238946,"~/environment.c"
+-'  138  0  ~/environment.c
+|4,39,138,0,1690238946,"~/environment.c"
+-'  138  0  ~/environment.c
+|4,39,138,0,1690238946,"~/environment.c"
+-'  138  0  ~/environment.c
+|4,39,138,0,1690238946,"~/environment.c"
+-'  138  0  ~/environment.c
+|4,39,138,0,1690238946,"~/environment.c"
+-'  138  0  ~/environment.c
+|4,39,138,0,1690238946,"~/environment.c"
+-'  138  0  ~/environment.c
+|4,39,138,0,1690238946,"~/environment.c"
+-'  140  0  ~/environment.c
+|4,39,140,0,1690238930,"~/environment.c"
+-'  140  0  ~/environment.c
+|4,39,140,0,1690238930,"~/environment.c"
+-'  140  0  ~/environment.c
+|4,39,140,0,1690238930,"~/environment.c"
+-'  140  0  ~/environment.c
+|4,39,140,0,1690238930,"~/environment.c"
+-'  140  0  ~/environment.c
+|4,39,140,0,1690238930,"~/environment.c"
+-'  140  0  ~/environment.c
+|4,39,140,0,1690238930,"~/environment.c"
+-'  140  0  ~/environment.c
+|4,39,140,0,1690238930,"~/environment.c"
+-'  140  0  ~/environment.c
+|4,39,140,0,1690238930,"~/environment.c"
+-'  140  0  ~/environment.c
+|4,39,140,0,1690238930,"~/environment.c"
+-'  140  0  ~/environment.c
+|4,39,140,0,1690238930,"~/environment.c"
+-'  140  0  ~/environment.c
+|4,39,140,0,1690238930,"~/environment.c"
+-'  140  0  ~/environment.c
+|4,39,140,0,1690238930,"~/environment.c"
+-'  140  0  ~/environment.c
+|4,39,140,0,1690238930,"~/environment.c"
+-'  140  0  ~/environment.c
+|4,39,140,0,1690238930,"~/environment.c"
 -'  140  0  ~/environment.c
 |4,39,140,0,1690238930,"~/environment.c"
 -'  140  0  ~/environment.c
@@ -77,178 +197,95 @@
 |4,39,1,0,1690238786,"~/environment1.c"
 -'  1  0  ~/environment1.c
 |4,39,1,0,1690238786,"~/environment1.c"
--'  58  0  ~/environment1.c
-|4,39,58,0,1690238770,"~/environment1.c"
--'  58  0  ~/environment1.c
-|4,39,58,0,1690238770,"~/environment1.c"
--'  58  0  ~/environment1.c
-|4,39,58,0,1690238770,"~/environment1.c"
--'  58  0  ~/environment1.c
-|4,39,58,0,1690238770,"~/environment1.c"
--'  58  0  ~/environment1.c
-|4,39,58,0,1690238770,"~/environment1.c"
--'  58  0  ~/environment1.c
-|4,39,58,0,1690238770,"~/environment1.c"
--'  58  0  ~/environment1.c
-|4,39,58,0,1690238770,"~/environment1.c"
--'  58  0  ~/environment1.c
-|4,39,58,0,1690238770,"~/environment1.c"
--'  48  18  ~/environment1.c
-|4,39,48,18,1690238674,"~/environment1.c"
--'  48  18  ~/environment1.c
-|4,39,48,18,1690238674,"~/environment1.c"
--'  48  18  ~/environment1.c
-|4,39,48,18,1690238674,"~/environment1.c"
--'  48  18  ~/environment1.c
-|4,39,48,18,1690238674,"~/environment1.c"
--'  48  18  ~/environment1.c
-|4,39,48,18,1690238674,"~/environment1.c"
--'  48  18  ~/environment1.c
-|4,39,48,18,1690238674,"~/environment1.c"
--'  48  18  ~/environment1.c
-|4,39,48,18,1690238674,"~/environment1.c"
--'  48  18  ~/environment1.c
-|4,39,48,18,1690238674,"~/environment1.c"
--'  48  18  ~/environment1.c
-|4,39,48,18,1690238674,"~/environment1.c"
--'  48  18  ~/environment1.c
-|4,39,48,18,1690238674,"~/environment1.c"
--'  48  18  ~/environment1.c
-|4,39,48,18,1690238674,"~/environment1.c"
--'  48  18  ~/environment1.c
-|4,39,48,18,1690238674,"~/environment1.c"
--'  48  18  ~/environment1.c
-|4,39,48,18,1690238674,"~/environment1.c"
--'  48  18  ~/environment1.c
-|4,39,48,18,1690238674,"~/environment1.c"
--'  48  18  ~/environment1.c
-|4,39,48,18,1690238674,"~/environment1.c"
--'  48  18  ~/environment1.c
-|4,39,48,18,1690238674,"~/environment1.c"
 -'  1  0  ~/environment1.c
-|4,39,1,0,1690238615,"~/environment1.c"
+|4,39,1,0,1690238786,"~/environment1.c"
 -'  1  0  ~/environment1.c
-|4,39,1,0,1690238615,"~/environment1.c"
+|4,39,1,0,1690238786,"~/environment1.c"
 -'  1  0  ~/environment1.c
-|4,39,1,0,1690238615,"~/environment1.c"
+|4,39,1,0,1690238786,"~/environment1.c"
 -'  1  0  ~/environment1.c
-|4,39,1,0,1690238615,"~/environment1.c"
+|4,39,1,0,1690238786,"~/environment1.c"
 -'  1  0  ~/environment1.c
-|4,39,1,0,1690238615,"~/environment1.c"
+|4,39,1,0,1690238786,"~/environment1.c"
 -'  1  0  ~/environment1.c
-|4,39,1,0,1690238615,"~/environment1.c"
+|4,39,1,0,1690238786,"~/environment1.c"
 -'  1  0  ~/environment1.c
-|4,39,1,0,1690238615,"~/environment1.c"
+|4,39,1,0,1690238786,"~/environment1.c"
 -'  1  0  ~/environment1.c
-|4,39,1,0,1690238615,"~/environment1.c"
+|4,39,1,0,1690238786,"~/environment1.c"
 -'  1  0  ~/environment1.c
-|4,39,1,0,1690238567,"~/environment1.c"
+|4,39,1,0,1690238786,"~/environment1.c"
 -'  1  0  ~/environment1.c
-|4,39,1,0,1690238567,"~/environment1.c"
+|4,39,1,0,1690238786,"~/environment1.c"
 -'  1  0  ~/environment1.c
-|4,39,1,0,1690238567,"~/environment1.c"
+|4,39,1,0,1690238786,"~/environment1.c"
 -'  1  0  ~/environment1.c
-|4,39,1,0,1690238567,"~/environment1.c"
+|4,39,1,0,1690238786,"~/environment1.c"
 -'  1  0  ~/environment1.c
-|4,39,1,0,1690238567,"~/environment1.c"
+|4,39,1,0,1690238786,"~/environment1.c"
 -'  1  0  ~/environment1.c
-|4,39,1,0,1690238567,"~/environment1.c"
+|4,39,1,0,1690238786,"~/environment1.c"
 -'  1  0  ~/environment1.c
-|4,39,1,0,1690238567,"~/environment1.c"
+|4,39,1,0,1690238786,"~/environment1.c"
 -'  1  0  ~/environment1.c
-|4,39,1,0,1690238567,"~/environment1.c"
--'  143  0  ~/environment.c
-|4,39,143,0,1690238529,"~/environment.c"
--'  145  0  ~/environment.c
-|4,39,145,0,1690238529,"~/environment.c"
--'  143  0  ~/environment.c
-|4,39,143,0,1690238529,"~/environment.c"
--'  145  0  ~/environment.c
-|4,39,145,0,1690238529,"~/environment.c"
--'  145  0  ~/environment.c
-|4,39,145,0,1690238529,"~/environment.c"
--'  145  0  ~/environment.c
-|4,39,145,0,1690238529,"~/environment.c"
--'  145  0  ~/environment.c
-|4,39,145,0,1690238529,"~/environment.c"
--'  145  0  ~/environment.c
-|4,39,145,0,1690238529,"~/environment.c"
--'  145  0  ~/environment.c
-|4,39,145,0,1690238529,"~/environment.c"
--'  145  0  ~/environment.c
-|4,39,145,0,1690238529,"~/environment.c"
--'  145  0  ~/environment.c
-|4,39,145,0,1690238529,"~/environment.c"
--'  137  1228  ~/environment.c
-|4,39,137,1228,1690238150,"~/environment.c"
--'  142  1228  ~/environment.c
-|4,39,142,1228,1690238150,"~/environment.c"
--'  139  1228  ~/environment.c
-|4,39,139,1228,1690238150,"~/environment.c"
--'  144  1228  ~/environment.c
-|4,39,144,1228,1690238150,"~/environment.c"
--'  137  1228  ~/environment.c
-|4,39,137,1228,1690238150,"~/environment.c"
--'  142  1228  ~/environment.c
-|4,39,142,1228,1690238150,"~/environment.c"
--'  139  1228  ~/environment.c
-|4,39,139,1228,1690238150,"~/environment.c"
--'  144  1228  ~/environment.c
-|4,39,144,1228,1690238150,"~/environment.c"
--'  144  1228  ~/environment.c
-|4,39,144,1228,1690238150,"~/environment.c"
--'  144  1228  ~/environment.c
-|4,39,144,1228,1690238150,"~/environment.c"
--'  144  1228  ~/environment.c
-|4,39,144,1228,1690238150,"~/environment.c"
--'  144  1228  ~/environment.c
-|4,39,144,1228,1690238150,"~/environment.c"
--'  144  1228  ~/environment.c
-|4,39,144,1228,1690238150,"~/environment.c"
--'  144  1228  ~/environment.c
-|4,39,144,1228,1690238150,"~/environment.c"
--'  144  1228  ~/environment.c
-|4,39,144,1228,1690238150,"~/environment.c"
--'  207  0  ~/environment.c
-|4,39,207,0,1690237166,"~/environment.c"
--'  212  0  ~/environment.c
-|4,39,212,0,1690237166,"~/environment.c"
--'  209  0  ~/environment.c
-|4,39,209,0,1690237166,"~/environment.c"
--'  214  0  ~/environment.c
-|4,39,214,0,1690237166,"~/environment.c"
--'  207  0  ~/environment.c
-|4,39,207,0,1690237166,"~/environment.c"
--'  212  0  ~/environment.c
-|4,39,212,0,1690237166,"~/environment.c"
--'  209  0  ~/environment.c
-|4,39,209,0,1690237166,"~/environment.c"
--'  214  0  ~/environment.c
-|4,39,214,0,1690237166,"~/environment.c"
--'  214  0  ~/environment.c
-|4,39,214,0,1690237166,"~/environment.c"
--'  214  0  ~/environment.c
-|4,39,214,0,1690237166,"~/environment.c"
--'  214  0  ~/environment.c
-|4,39,214,0,1690237166,"~/environment.c"
--'  214  0  ~/environment.c
-|4,39,214,0,1690237166,"~/environment.c"
--'  214  0  ~/environment.c
-|4,39,214,0,1690237166,"~/environment.c"
--'  214  0  ~/environment.c
-|4,39,214,0,1690237166,"~/environment.c"
--'  214  0  ~/environment.c
-|4,39,214,0,1690237166,"~/environment.c"
--'  1  0  ~/environment.c
-|4,39,1,0,1690236538,"~/environment.c"
--'  1  0  ~/environment.c
-|4,39,1,0,1690236538,"~/environment.c"
--'  1  0  ~/environment.c
-|4,39,1,0,1690236538,"~/environment.c"
--'  1  0  ~/environment.c
-|4,39,1,0,1690236538,"~/environment.c"
+|4,39,1,0,1690238786,"~/environment1.c"
+-'  1  0  ~/environment1.c
+|4,39,1,0,1690238786,"~/environment1.c"
+-'  1  0  ~/environment1.c
+|4,39,1,0,1690238786,"~/environment1.c"
+-'  1  0  ~/environment1.c
+|4,39,1,0,1690238786,"~/environment1.c"
+-'  1  0  ~/environment1.c
+|4,39,1,0,1690238786,"~/environment1.c"
+-'  1  0  ~/environment1.c
+|4,39,1,0,1690238786,"~/environment1.c"
+-'  1  0  ~/environment1.c
+|4,39,1,0,1690238786,"~/environment1.c"
+-'  1  0  ~/environment1.c
+|4,39,1,0,1690238786,"~/environment1.c"
+-'  1  0  ~/environment1.c
+|4,39,1,0,1690238786,"~/environment1.c"
+-'  1  0  ~/environment1.c
+|4,39,1,0,1690238786,"~/environment1.c"
 
 # History of marks within files (newest to oldest):
+
+> ~/command_exec.c
+	*	1690285604	0
+	"	206	0
+	^	206	1
+	.	159	25
+	+	24	0
+	+	9	0
+	+	4	28
+	+	7	57
+	+	1	20
+	+	74	0
+	+	28	0
+	+	31	3
+	+	27	18
+	+	119	0
+	+	78	0
+	+	77	38
+	+	80	3
+	+	120	0
+	+	156	0
+	+	129	0
+	+	123	0
+	+	206	0
+	+	163	0
+	+	159	36
+	+	160	0
+	+	159	25
+
+> ~/get-builtin.c
+	*	1690285178	0
+	"	29	0
+	^	29	1
+	.	29	0
+	+	1	24
+	+	8	0
+	+	29	0
 
 > ~/environment.c
 	*	1690239018	0
