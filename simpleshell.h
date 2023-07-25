@@ -152,4 +152,12 @@ void help(void);
 void alias(void);
 void cd(void);
 
+char *getenv(const char *name, char **_environ);
+int env(data_shell *datash);
+
+char *copy_info(char *name, char *value);
+void set_env(char *name, char *value, data_shell *datash);
+int _setenv(data_shell *datash);
+int _unsetenv(data_shell *datash);
+
 #endif

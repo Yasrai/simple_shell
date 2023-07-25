@@ -24,14 +24,14 @@ int cmp_env_name(const char *nenv, const char *name)
 }
 
 /**
- * _getenv - get an environment variable
+ * getenv - get an environment variable
  * @_environ: environment variable
  * @name: name of the environment variable
  * Return: value of the environment variable if is found.
  * In other case, returns NULL.
  */
 
-char *_getenv(const char *name, char **_environ)
+char *getenv(const char *name, char **_environ)
 {
 	char *ptr_env;
 	int i, mov;
@@ -55,12 +55,12 @@ char *_getenv(const char *name, char **_environ)
 }
 
 /**
- * _env - prints the evironment variables
+ * env - prints the evironment variables
  * @datash: data relevant.
  * Return: 1 on success.
  */
 
-int _env(data_shell *datash)
+int env(data_shell *datash)
 {
 	int i, j;
 
@@ -78,59 +78,3 @@ int _env(data_shell *datash)
 	return (1);
 }
 
-/**
- * copy_info - copies info to create
- * a new env or alias
- * @value: value (env or alias)
- * @name: name (env or alias)
- * Return: new env or alias.
- */
-
-char *copy_info(char *name, char *value)
-{
-	char *new;
-	int len_name, len_value, len;
-
-	len_name = _strlen(name);
-	len_value = _strlen(value);
-	len = len_name + len_value + 2;
-	new = malloc(sizeof(char) * (len));
-	_strcpy(new, name);
-	_strcat(new, "=");
-	_strcat(new, value);
-	_strcat(new, "\0");
-
-	return (new);
-}
-
-/**
- * set_env - sets an environment variable
- * @value: value of the environment variable
- * @name: name of the environment variable
- * @datash: data structure (environ)
- * Return: no return
- */
-
-void set_env(char *name, char *value, data_shell *datash)
-{
-	int i;
-	char *var_env, *name_env;
-
-	for (i = 0; datash->_environ[i]; i++)
-	{
-		var_env = _strdup(datash->_environ[i]);
-		name_env = _strtok(var_env, "=");
-		if (_strcmp(name_env, name) == 0)
-		{
-			free(datash->_environ[i]);
-			datash->_environ[i] = copy_info(name_env, value);
-			free(var_env);
-			return;
-		}
-		free(var_env);
-	}
-
-	datash->_environ = _reallocdp(datash->_environ, i, sizeof(char *) * (i + 2));
-	datash->_environ[i] = copy_info(name, value);
-	datash->_environ[i + 1] = NULL;
-}
