@@ -78,8 +78,6 @@ int _env(data_shell *datash)
 	return (1);
 }
 
-#include "simpleshell.h"
-
 /**
  * copy_info - copies info to create
  * a new env or alias
