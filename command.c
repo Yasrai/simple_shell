@@ -1,12 +1,12 @@
 #include "simpleshell.h"
 
 /**
-* @datash: data relevant {environ}
-* command_dot - changed to the parent directory
-* Return: no return
-*/
+ * cd_dot - changes to the parent directory
+ * @datash: data relevant (environ)
+ * Return: no return
+ */
 
-void command_dot(data_shell *datash)
+void cd_dot(data_shell *datash)
 {
 	char pwd[PATH_MAX];
 	char *dir, *cp_pwd, *cp_strtok_pwd;
@@ -51,13 +51,12 @@ void command_dot(data_shell *datash)
 }
 
 /**
- * command_to - changed to a directory given
- * by the user
- * @datash: data relevant {directories}
+ * cd_to - changes to a directory given
+ * @datash: data relevant (directories)
  * Return: no return
  */
 
-void command_to(data_shell *datash)
+void cd_to(data_shell *datash)
 {
 	char pwd[PATH_MAX];
 	char *dir, *cp_pwd, *cp_dir;
@@ -86,12 +85,12 @@ void command_to(data_shell *datash)
 }
 
 /**
- * command_previous - changed to previous directory
- * @datash: data relevant {environ}
+ * cd_previous - changes to the previous directory
+ * @datash: data relevant (environ)
  * Return: no return
  */
 
-void command_previous(data_shell *datash)
+void cd_previous(data_shell *datash)
 {
 	char pwd[PATH_MAX];
 	char *p_pwd, *p_oldpwd, *cp_pwd, *cp_oldpwd;
@@ -128,12 +127,12 @@ void command_previous(data_shell *datash)
 }
 
 /**
- * command_to_home - changed to home directory
- * @datash: data relevant {environ}
+ * cd_to_home - changes to home directory
+ * @datash: data relevant (environ)
  * Return: no return
  */
 
-void command_to_home(data_shell *datash)
+void cd_to_home(data_shell *datash)
 {
 	char *p_pwd, *home;
 	char pwd[PATH_MAX];
@@ -163,47 +162,45 @@ void command_to_home(data_shell *datash)
 	datash->status = 0;
 }
 
-#include "simple_shell.h"
-
 /**
- * command_shell - changes current directory
+ * cd_shell - changes current directory
  * @datash: data relevant
  * Return: 1 on success
  */
 
-int command_shell(data_shell *datash)
+int cd_shell(data_shell *datash)
 {
-        char *dir;
-        int ishome, ishome2, isddash;
+	char *dir;
+	int ishome, ishome2, isddash;
 
-        dir = datash->args[1];
+	dir = datash->args[1];
 
-        if (dir != NULL)
-        {
-                ishome = _strcmp("$HOME", dir);
-                ishome2 = _strcmp("~", dir);
-                isddash = _strcmp("--", dir);
-        }
+	if (dir != NULL)
+	{
+		ishome = _strcmp("$HOME", dir);
+		ishome2 = _strcmp("~", dir);
+		isddash = _strcmp("--", dir);
+	}
 
-        if (dir == NULL || !ishome || !ishome2 || !isddash)
-        {
-                cd_to_home(datash);
-                return (1);
-        }
+	if (dir == NULL || !ishome || !ishome2 || !isddash)
+	{
+		cd_to_home(datash);
+		return (1);
+	}
 
-        if (_strcmp("-", dir) == 0)
-        {
-                cd_previous(datash);
-                return (1);
-        }
+	if (_strcmp("-", dir) == 0)
+	{
+		cd_previous(datash);
+		return (1);
+	}
 
-        if (_strcmp(".", dir) == 0 || _strcmp("..", dir) == 0)
-        {
-                cd_dot(datash);
-                return (1);
-        }
+	if (_strcmp(".", dir) == 0 || _strcmp("..", dir) == 0)
+	{
+		cd_dot(datash);
+		return (1);
+	}
 
-        cd_to(datash);
+	cd_to(datash);
 
-        return (1);
+	return (1);
 }

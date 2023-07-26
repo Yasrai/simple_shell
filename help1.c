@@ -1,11 +1,11 @@
 #include "simpleshell.h"
 
 /**
- * general - Entry point for help information for the help builtin
+ * aux_help_general - Entry point for help information for the help builtin
  * Return: no return
  */
 
-void general(void)
+void aux_help_general(void)
 {
 	char *help = "^-^ bash, version 1.0(1)-release\n";
 
@@ -25,11 +25,11 @@ void general(void)
 }
 
 /**
- * exit - Help information fot the builint exit
+ * aux_help_exit - Help information fot the builint exit
  * Return: no return
  */
 
-void exit(void)
+void aux_help_exit(void)
 {
 	char *help = "exit: exit [n]\n Exit shell.\n";
 
@@ -41,11 +41,11 @@ void exit(void)
 }
 
 /**
- * help - Help information for the builtin help.
+ * aux_help - Help information for the builtin help.
  * Return: no return
  */
 
-void help(void)
+void aux_help(void)
 {
 	char *help = "help: help [-dms] [pattern ...]\n";
 
@@ -57,11 +57,11 @@ void help(void)
 }
 
 /**
- * alias - Help information for the builtin alias.
+ * aux_help_alias - Help information for the builtin alias.
  * Return: no return
  */
 
-void alias(void)
+void aux_help_alias(void)
 {
 	char *help = "alias: alias [-p] [name[=value]...]\n";
 
@@ -71,11 +71,11 @@ void alias(void)
 }
 
 /**
- * cd - Help information for the builtin alias.
+ * aux_help_cd - Help information for the builtin alias.
  * Return: no return
  */
 
-void cd(void)
+void aux_help_cd(void)
 {
 	char *help = "cd: cd [-L|[-P [-e]] [-@]] [dir]\n";
 

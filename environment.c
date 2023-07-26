@@ -35,14 +35,13 @@ char *getenv(const char *name, char **_environ)
 {
 	char *ptr_env;
 	int i, mov;
-	/* Initialize ptr_env value */
+
 	ptr_env = NULL;
 	mov = 0;
-	/* Compare all environment variables */
-	/* environ is declared in the header file */
+	
 	for (i = 0; _environ[i]; i++)
 	{
-		/* If name and env are equal */
+
 	mov = cmp_env_name(_environ[i], name);
 		if (mov)
 	{
@@ -55,12 +54,12 @@ char *getenv(const char *name, char **_environ)
 }
 
 /**
- * env - prints the evironment variables
+ * _env - prints the evironment variables
+ *
  * @datash: data relevant.
  * Return: 1 on success.
  */
-
-int env(data_shell *datash)
+int _env(data_shell *datash)
 {
 	int i, j;
 
@@ -77,4 +76,3 @@ int env(data_shell *datash)
 
 	return (1);
 }
-

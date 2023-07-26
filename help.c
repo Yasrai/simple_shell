@@ -1,11 +1,11 @@
 #include "simpleshell.h"
 
 /**
- * env - Help information for the builtin env
+ * aux_help_env - Help information for the builtin env
  * Return: no return
  */
 
-void env(void)
+void aux_help_env(void)
 {
 	char *help = "env: env [option] [name=value] [command [args]]\n\t";
 
@@ -16,11 +16,11 @@ void env(void)
 }
 
 /**
- * setenv - Help information for the builtin setenv
+ * aux_help_setenv - Help information for the builtin setenv
  * Return: no return
  */
 
-void setenv(void)
+void aux_help_setenv(void)
 {
 
 	char *help = "setenv: setenv (const char *name, const char *value,";
@@ -33,11 +33,11 @@ void setenv(void)
 }
 
 /**
- * unsetenv - Help information for the builtin unsetenv
+ * aux_help_unsetenv - Help information for the builtin unsetenv
  * Return: no return
 */
 
-void unsetenv(void)
+void aux_help_unsetenv(void)
 {
 	char *help = "unsetenv: unsetenv (const char *name)\n\t";
 
