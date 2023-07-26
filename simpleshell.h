@@ -160,4 +160,57 @@ void set_env(char *name, char *value, data_shell *datash);
 int _setenv(data_shell *datash);
 int _unsetenv(data_shell *datash);
 
+int repeated_char(char *input, int i);
+int error_sep_op(char *input, int i, char last);
+int first_char(char *input, int *i);
+void print_syntax_error(data_shell *datash, char *input, int i, int bool);
+int check_syntax_error(data_shell *datash, char *input);
+
+char *without_comment(char *in);
+void shell_loop(data_shell *datash);
+
+char *read_line(int *i_eof);
+
+char *without_comment(char *in);
+void shell_loop(data_shell *datash);
+char *swap_char(char *input, int bool);
+void add_nodes(sep_list **head_s, line_list **head_l, char *input);
+void go_next(sep_list **list_s, line_list **list_l, data_shell *datash);
+int split_commands(data_shell *datash, char *input);
+
+char **split_line(char *input);
+
+void check_env(r_var **h, char *in, data_shell *data);
+int check_vars(r_var **h, char *in, char *st, data_shell *data);
+char *replaced_input(r_var **head, char *input, char *new_input, int nlen);
+char *rep_var(char *input, data_shell *datash);
+
+void bring_line(char **lineptr, size_t *n, char *buffer, size_t j);
+ssize_t get_line(char **lineptr, size_t *n, FILE *stream);
+
+int exec_line(data_shell *datash);
+
+int (*get_builtin(char *cmd))(data_shell *datash);
+
+int exit_shell(data_shell *datash);
+
+int get_len(int n);
+char *aux_itoa(int n);
+int _atoi(char *s);
+
+int get_error(data_shell *datash, int eval);
+
+void get_sigint(int sig);
+
+int get_help(data_shell *datash);
+
+int is_cdir(char *path, int *i);
+char *_which(char *cmd, char **_environ);
+int is_executable(data_shell *datash);
+int check_error_cmd(char *dir, data_shell *datash);
+int cmd_exec(data_shell *datash);
+
+
+
+
 #endif
